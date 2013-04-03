@@ -7,8 +7,10 @@ In the end this project is about me learning OpenGL, but, as I myself had consid
 (I intend to translate the entire book into Python but this will likely take me some time.)
 
 The original tutorials and original C++ code can be found here:
-[1]http://arcsynthesis.org/gltut/
+[arcsynthesis][1]
 
 Cheers,
 Sean J. McKiernan
 -Mek
+
+[1]:http://arcsynthesis.org/gltut/
