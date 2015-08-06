@@ -15,15 +15,15 @@ SIZE_FLOAT = VERT_COMPONENTS = 4
 
 #Shaders:
 VERT = """
-       #version 330
-       layout(location = 0) in vec4 position;
+       #version 130
+       in vec4 position;
        void main()
        {
           gl_Position = position;
        }"""
 
 FRAG = """
-       #version 330
+       #version 130
        out vec4 outputColor;
        void main()
        {

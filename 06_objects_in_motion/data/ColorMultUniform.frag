@@ -1,4 +1,4 @@
-#version 330
+#version 130
 
 smooth in vec4 theColor;
 uniform vec4 baseColor;

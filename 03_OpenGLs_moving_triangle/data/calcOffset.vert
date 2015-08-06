@@ -1,6 +1,7 @@
-#version 330
+#version 130
 
-layout(location = 0) in vec4 position;
+in vec4 position;
+
 uniform float period;
 uniform float time;
 
